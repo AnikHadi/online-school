@@ -1,0 +1,140 @@
+.nav-first {
+    background-color: #F0FFF0;
+}
+.navbar-brand {
+    width: 150px;
+}
+.navbar-nav a{
+    margin-right: 35px;
+}
+.sign-btn {
+    width: 104px;
+    height: 43px;
+    border-radius: 33px;
+    color: #ffffff !important;
+    background-color: #21B573;
+    text-align: center;
+}
+
+/* Learn with fun  */
+.Learn {
+    background-color: #F0FFF0;
+    padding-bottom: 50px;
+}
+.passage-learn {
+    width: 400px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.passage-learn h1 {
+    font-size: 49px;
+}
+.text-red {
+    color: red;
+}
+.text-green {
+    color: #21B573;
+}
+.col-md-6 img {
+    width: 100%;
+}
+.btn-color {
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+}
+
+/* Tools */
+.tools {
+    margin: 20px 0px;
+}
+.tool-con {
+    width: 100%;
+    background-color: #F8FFFB;
+    text-align: center;
+    padding: 50px 15px;
+    border-radius: 10px;
+}
+.tool-con h1 {
+    padding-top: 20px;
+    font-size: 25px;
+}
+.col-md-3 img {
+    width: 30%;
+}
+.tool-diff {
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 20px 40px #0000001a;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Online Courses  */
+.online-bottom {
+
+}
+.card {
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px #0000001a;
+    border: none;
+}
+.card-img {
+    padding: 1rem 1rem;
+}
+.card-body {
+    padding: 20px 0px;
+}
+.card-coler {
+    margin-top: 20px;
+    
+}
+.card-coler img {
+    width: 13%;
+    height: 65%;
+}
+.card-coler p {
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+
+/* Testimonial */
+#testimonial {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 80px;
+}
+.testimonial {
+    margin-top: 3%;
+    width: 80%;
+}
+.testimonial img {
+    width: 20%;
+    margin-left: 25%;
+}
+.testimonial p {
+    padding: 5% 0%;
+    padding-left: 2%;
+}
+
+/* last-intro */
+.last-intro {
+    padding: 5% 0% 2% 0%;
+    background-color: #282531;
+    color: white;
+}
+.list p {
+    margin: 6px 0px 0px 80px ; 
+}
+
+/* Footer  */
+footer {
+    text-align: center;
+    font-size: 12px;
+    padding: 80px 0px 20px 0px;
+    background-color: #282531;
+    color: white;
+}
